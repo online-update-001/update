@@ -1,0 +1,50 @@
+{
+  "Version": "20250522014433",
+  "Files": [
+    {
+      "path": "BotData.zip",
+      "hash": "a7ab718d5606d94e8cd6c6ea3ff7ce94",
+      "url": "https://cdn.jsdelivr.net/gh/online-update-001/update@main/BotData.zip"
+    },
+    {
+      "path": "data.zip",
+      "hash": "36c945884c92e30a70940142a6cc22cd",
+      "url": "https://cdn.jsdelivr.net/gh/online-update-001/update@main/data.zip"
+    },
+    {
+      "path": "DWLogin.zip",
+      "hash": "07bb793c9db3980166523d73961b23af",
+      "url": "https://cdn.jsdelivr.net/gh/online-update-001/update@main/DWLogin.zip"
+    },
+    {
+      "path": "jma.zip",
+      "hash": "1523238cee201b72bbf923223cc64505",
+      "url": "https://cdn.jsdelivr.net/gh/online-update-001/update@main/jma.zip"
+    },
+    {
+      "path": "menu.zip",
+      "hash": "519743cf04931c9b76d3d9998e0d8468",
+      "url": "https://cdn.jsdelivr.net/gh/online-update-001/update@main/menu.zip"
+    },
+    {
+      "path": "pic.zip",
+      "hash": "67adcb7a635f7ec95ee08c6aec119fdd",
+      "url": "https://cdn.jsdelivr.net/gh/online-update-001/update@main/pic.zip"
+    },
+    {
+      "path": "SERVER.zip",
+      "hash": "42beeee6faf746ac6c27304fcf918ee5",
+      "url": "https://cdn.jsdelivr.net/gh/online-update-001/update@main/SERVER.zip"
+    },
+    {
+      "path": "TSBot.zip",
+      "hash": "2f74d822bcd1ec717bb1b25aed1c45f6",
+      "url": "https://cdn.jsdelivr.net/gh/online-update-001/update@main/TSBot.zip"
+    },
+    {
+      "path": "Update.zip",
+      "hash": "0183b2e1e185a3ed4fedffa347048525",
+      "url": "https://cdn.jsdelivr.net/gh/online-update-001/update@main/Update.zip"
+    }
+  ]
+}
