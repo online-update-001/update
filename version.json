@@ -1,5 +1,5 @@
 {
-  "Version": "20250522220841",
+  "Version": "20250522233012",
   "Files": [
     {
       "path": "BotData.zip",
@@ -15,11 +15,6 @@
       "path": "DWLogin.zip",
       "hash": "07bb793c9db3980166523d73961b23af",
       "url": "https://cdn.jsdelivr.net/gh/online-update-001/update@main/DWLogin.zip"
-    },
-    {
-      "path": "jma.zip",
-      "hash": "1523238cee201b72bbf923223cc64505",
-      "url": "https://cdn.jsdelivr.net/gh/online-update-001/update@v1.0/jma.zip"
     },
     {
       "path": "menu.zip",
