@@ -1,5 +1,5 @@
 {
-  "Version": "v.052223",
+  "Version": "v.052300",
   "Files": [
     {
       "path": "BotData.zip",
@@ -27,16 +27,6 @@
       "url": "https://cdn.jsdelivr.net/gh/online-update-001/update@main/jma_002.zip"
     },
     {
-      "path": "jma_001.zip",
-      "hash": "0315923f4dc6ad5e92d1de8b15629140",
-      "url": "https://cdn.jsdelivr.net/gh/online-update-001/update@main/jma_001.zip"
-    },
-    {
-      "path": "jma_002.zip",
-      "hash": "3f716dd56104d81889df8ea155d56d75",
-      "url": "https://cdn.jsdelivr.net/gh/online-update-001/update@main/jma_002.zip"
-    },
-    {
       "path": "menu.zip",
       "hash": "519743cf04931c9b76d3d9998e0d8468",
       "url": "https://cdn.jsdelivr.net/gh/online-update-001/update@main/menu.zip"
@@ -50,11 +40,6 @@
       "path": "SERVER.zip",
       "hash": "42beeee6faf746ac6c27304fcf918ee5",
       "url": "https://cdn.jsdelivr.net/gh/online-update-001/update@main/SERVER.zip"
-    },
-    {
-      "path": "TSBot.zip",
-      "hash": "2f74d822bcd1ec717bb1b25aed1c45f6",
-      "url": "https://cdn.jsdelivr.net/gh/online-update-001/update@v1.0/TSBot.zip"
     }
   ]
 }
