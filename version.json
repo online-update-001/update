@@ -40,6 +40,16 @@
       "path": "SERVER.zip",
       "hash": "42beeee6faf746ac6c27304fcf918ee5",
       "url": "https://cdn.jsdelivr.net/gh/online-update-001/update@main/SERVER.zip"
+    },
+    {
+      "path": "TSBot.zip",
+      "hash": "2f74d822bcd1ec717bb1b25aed1c45f6",
+      "url": "https://github.com/online-update-001/update/releases/download/v1.0/TSBot.zip"
+    },
+    {
+      "path": "TSBot.zip",
+      "hash": "2f74d822bcd1ec717bb1b25aed1c45f6",
+      "url": "https://github.com/online-update-001/update/releases/download/v1.0/TSBot.zip"
     }
   ]
 }
