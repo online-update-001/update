@@ -1,5 +1,5 @@
 {
-  "Version": "20250522233012",
+  "Version": "v.052223",
   "Files": [
     {
       "path": "BotData.zip",
@@ -15,6 +15,26 @@
       "path": "DWLogin.zip",
       "hash": "07bb793c9db3980166523d73961b23af",
       "url": "https://cdn.jsdelivr.net/gh/online-update-001/update@main/DWLogin.zip"
+    },
+    {
+      "path": "jma_001.zip",
+      "hash": "1523238cee201b72bbf923223cc64505",
+      "url": "https://cdn.jsdelivr.net/gh/online-update-001/update@main/jma_001.zip"
+    },
+    {
+      "path": "jma_002.zip",
+      "hash": "1523238cee201b72bbf923223cc64505",
+      "url": "https://cdn.jsdelivr.net/gh/online-update-001/update@main/jma_002.zip"
+    },
+    {
+      "path": "jma_001.zip",
+      "hash": "0315923f4dc6ad5e92d1de8b15629140",
+      "url": "https://cdn.jsdelivr.net/gh/online-update-001/update@main/jma_001.zip"
+    },
+    {
+      "path": "jma_002.zip",
+      "hash": "3f716dd56104d81889df8ea155d56d75",
+      "url": "https://cdn.jsdelivr.net/gh/online-update-001/update@main/jma_002.zip"
     },
     {
       "path": "menu.zip",
