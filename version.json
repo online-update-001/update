@@ -1,5 +1,5 @@
 {
-  "Version": "v.053112",
+  "Version": "v.053113",
   "Files": [
     {
       "path": "BotData.zip",
@@ -22,6 +22,11 @@
       "url": "https://github.com/online-update-001/update/releases/download/v1.0/jma.zip"
     },
     {
+      "path": "jma.zip",
+      "hash": "f992d47b35525584ad83cb5023b69f8c",
+      "url": "https://github.com/online-update-001/update/releases/download/v1.0/jma.zip"
+    },
+    {
       "path": "menu.zip",
       "hash": "519743cf04931c9b76d3d9998e0d8468",
       "url": "https://cdn.jsdelivr.net/gh/online-update-001/update@main/menu.zip"
@@ -30,6 +35,11 @@
       "path": "pic.zip",
       "hash": "7bca0b59a4e3ba2803fd268389218950",
       "url": "https://cdn.jsdelivr.net/gh/online-update-001/update@main/pic.zip"
+    },
+    {
+      "path": "SERVER.zip",
+      "hash": "0241ed504aa15e132a2de0cd19f8411a",
+      "url": "https://cdn.jsdelivr.net/gh/online-update-001/update@main/SERVER.zip"
     },
     {
       "path": "TSBot.zip",
