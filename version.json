@@ -22,11 +22,6 @@
       "url": "https://github.com/online-update-001/update/releases/download/v1.0/jma.zip"
     },
     {
-      "path": "jma.zip",
-      "hash": "f992d47b35525584ad83cb5023b69f8c",
-      "url": "https://github.com/online-update-001/update/releases/download/v1.0/jma.zip"
-    },
-    {
       "path": "menu.zip",
       "hash": "519743cf04931c9b76d3d9998e0d8468",
       "url": "https://cdn.jsdelivr.net/gh/online-update-001/update@main/menu.zip"
@@ -35,11 +30,6 @@
       "path": "pic.zip",
       "hash": "7bca0b59a4e3ba2803fd268389218950",
       "url": "https://cdn.jsdelivr.net/gh/online-update-001/update@main/pic.zip"
-    },
-    {
-      "path": "SERVER.zip",
-      "hash": "e5a3da69a688a2e43e61939999509dd4",
-      "url": "https://cdn.jsdelivr.net/gh/online-update-001/update@main/SERVER.zip"
     },
     {
       "path": "TSBot.zip",
