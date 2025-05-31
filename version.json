@@ -1,5 +1,5 @@
 {
-  "Version": "v.052301",
+  "Version": "v.053112",
   "Files": [
     {
       "path": "BotData.zip",
@@ -8,7 +8,7 @@
     },
     {
       "path": "data.zip",
-      "hash": "36c945884c92e30a70940142a6cc22cd",
+      "hash": "108b543884bc6e57284240b41bdaa80b",
       "url": "https://cdn.jsdelivr.net/gh/online-update-001/update@main/data.zip"
     },
     {
@@ -17,14 +17,14 @@
       "url": "https://cdn.jsdelivr.net/gh/online-update-001/update@main/DWLogin.zip"
     },
     {
-      "path": "jma_001.zip",
-      "hash": "1523238cee201b72bbf923223cc64505",
-      "url": "https://cdn.jsdelivr.net/gh/online-update-001/update@main/jma_001.zip"
+      "path": "jma.zip",
+      "hash": "f992d47b35525584ad83cb5023b69f8c",
+      "url": "https://github.com/online-update-001/update/releases/download/v1.0/jma.zip"
     },
     {
-      "path": "jma_002.zip",
-      "hash": "1523238cee201b72bbf923223cc64505",
-      "url": "https://cdn.jsdelivr.net/gh/online-update-001/update@main/jma_002.zip"
+      "path": "jma.zip",
+      "hash": "f992d47b35525584ad83cb5023b69f8c",
+      "url": "https://github.com/online-update-001/update/releases/download/v1.0/jma.zip"
     },
     {
       "path": "menu.zip",
@@ -33,7 +33,7 @@
     },
     {
       "path": "pic.zip",
-      "hash": "67adcb7a635f7ec95ee08c6aec119fdd",
+      "hash": "7bca0b59a4e3ba2803fd268389218950",
       "url": "https://cdn.jsdelivr.net/gh/online-update-001/update@main/pic.zip"
     },
     {
