@@ -9,6 +9,8 @@ build/
 profiles/
 native
 versionUpdate.exe
+temp_jma_unzip
+temp_jma_unzip/
 #//////////////////////////
 # NPM
 #//////////////////////////
