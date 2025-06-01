@@ -1,5 +1,5 @@
 {
-  "Version": "v.053113",
+  "Version": "v.060120",
   "Files": [
     {
       "path": "BotData.zip",
@@ -38,7 +38,12 @@
     },
     {
       "path": "TSBot.zip",
-      "hash": "2f74d822bcd1ec717bb1b25aed1c45f6",
+      "hash": "d971d3c4781dfefd0e09c35d2c421cd0",
+      "url": "https://github.com/online-update-001/update/releases/download/v1.0/TSBot.zip"
+    },
+    {
+      "path": "TSBot.zip",
+      "hash": "d971d3c4781dfefd0e09c35d2c421cd0",
       "url": "https://github.com/online-update-001/update/releases/download/v1.0/TSBot.zip"
     }
   ]
