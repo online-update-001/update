@@ -1,5 +1,5 @@
 {
-  "Version": "v.060120",
+  "Version": "v.061608",
   "Files": [
     {
       "path": "BotData.zip",
@@ -8,13 +8,18 @@
     },
     {
       "path": "data.zip",
-      "hash": "108b543884bc6e57284240b41bdaa80b",
+      "hash": "b087299752015eb41a434b5b90a58ac9",
       "url": "https://cdn.jsdelivr.net/gh/online-update-001/update@main/data.zip"
     },
     {
       "path": "DWLogin.zip",
       "hash": "07bb793c9db3980166523d73961b23af",
       "url": "https://cdn.jsdelivr.net/gh/online-update-001/update@main/DWLogin.zip"
+    },
+    {
+      "path": "jma.zip",
+      "hash": "f992d47b35525584ad83cb5023b69f8c",
+      "url": "https://github.com/online-update-001/update/releases/download/v1.0/jma.zip"
     },
     {
       "path": "jma.zip",
