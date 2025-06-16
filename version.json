@@ -1,5 +1,5 @@
 {
-  "Version": "v.061608",
+  "Version": "v.061618",
   "Files": [
     {
       "path": "BotData.zip",
@@ -8,7 +8,7 @@
     },
     {
       "path": "data.zip",
-      "hash": "b087299752015eb41a434b5b90a58ac9",
+      "hash": "1ff998f2ea01a67d18c4037bcb315601",
       "url": "https://cdn.jsdelivr.net/gh/online-update-001/update@main/data.zip"
     },
     {
@@ -40,6 +40,11 @@
       "path": "SERVER.zip",
       "hash": "0241ed504aa15e132a2de0cd19f8411a",
       "url": "https://cdn.jsdelivr.net/gh/online-update-001/update@main/SERVER.zip"
+    },
+    {
+      "path": "TSBot.zip",
+      "hash": "d971d3c4781dfefd0e09c35d2c421cd0",
+      "url": "https://github.com/online-update-001/update/releases/download/v1.0/TSBot.zip"
     },
     {
       "path": "TSBot.zip",
