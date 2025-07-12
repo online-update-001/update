@@ -1,5 +1,5 @@
 {
-  "Version": "v.070800",
+  "Version": "v.071213",
   "Files": [
     {
       "path": "BotData.zip",
@@ -8,7 +8,7 @@
     },
     {
       "path": "data.zip",
-      "hash": "2eba19c7879acf82d497b46b31546805",
+      "hash": "8b06c6486ddba4fdd54862fdb5a03292",
       "url": "https://cdn.jsdelivr.net/gh/online-update-001/update@main/data.zip"
     },
     {
@@ -28,12 +28,12 @@
     },
     {
       "path": "menu.zip",
-      "hash": "519743cf04931c9b76d3d9998e0d8468",
+      "hash": "f4195f1110bc64e6e43d68e0e9400a46",
       "url": "https://cdn.jsdelivr.net/gh/online-update-001/update@main/menu.zip"
     },
     {
       "path": "pic.zip",
-      "hash": "7bca0b59a4e3ba2803fd268389218950",
+      "hash": "251c9eab597b78862b10ed6eb91920db",
       "url": "https://cdn.jsdelivr.net/gh/online-update-001/update@main/pic.zip"
     },
     {
