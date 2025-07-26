@@ -1,14 +1,14 @@
 {
-  "Version": "v.071213",
+  "Version": "v.072613",
   "Files": [
     {
       "path": "BotData.zip",
-      "hash": "a7ab718d5606d94e8cd6c6ea3ff7ce94",
+      "hash": "3d8809db40b98657503fc9b39ab45faf",
       "url": "https://cdn.jsdelivr.net/gh/online-update-001/update@main/BotData.zip"
     },
     {
       "path": "data.zip",
-      "hash": "8b06c6486ddba4fdd54862fdb5a03292",
+      "hash": "143d0121d7f418348701607af95e9281",
       "url": "https://cdn.jsdelivr.net/gh/online-update-001/update@main/data.zip"
     },
     {
@@ -33,22 +33,22 @@
     },
     {
       "path": "pic.zip",
-      "hash": "251c9eab597b78862b10ed6eb91920db",
+      "hash": "6583d18ea02d95db77f97c7b70080706",
       "url": "https://cdn.jsdelivr.net/gh/online-update-001/update@main/pic.zip"
     },
     {
       "path": "SERVER.zip",
-      "hash": "e9eebe6d3ecfdff70bd1f35cebbba741",
+      "hash": "5735e21d6c606db0a18dfbc9fe891553",
       "url": "https://cdn.jsdelivr.net/gh/online-update-001/update@main/SERVER.zip"
     },
     {
       "path": "TSBot.zip",
-      "hash": "25d1b7273c029eef4341e287991485d6",
+      "hash": "3803ef9aab56a52bd87ee7d87cf52240",
       "url": "https://github.com/online-update-001/update/releases/download/v1.0/TSBot.zip"
     },
     {
       "path": "TSBot.zip",
-      "hash": "25d1b7273c029eef4341e287991485d6",
+      "hash": "3803ef9aab56a52bd87ee7d87cf52240",
       "url": "https://github.com/online-update-001/update/releases/download/v1.0/TSBot.zip"
     }
   ]
