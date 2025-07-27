@@ -1,5 +1,5 @@
 {
-  "Version": "v.072713",
+  "Version": "v.072801",
   "Files": [
     {
       "path": "BotData.zip",
@@ -8,7 +8,7 @@
     },
     {
       "path": "data.zip",
-      "hash": "2c03b9c0baf0752245a89c382303665b",
+      "hash": "c54012a0c4cd97d8090091aa300fbb1c",
       "url": "https://cdn.jsdelivr.net/gh/online-update-001/update@main/data.zip"
     },
     {
