@@ -1,25 +1,20 @@
 {
-  "Version": "v.072809",
+  "Version": "v.072812",
   "Files": [
     {
       "path": "BotData.zip",
       "hash": "3d8809db40b98657503fc9b39ab45faf",
-      "url": "https://cdn.jsdelivr.net/gh/online-update-001/update@main/BotData.zip"
+      "url": "https://github.com/online-update-001/update/releases/download/v1.0/BotData.zip"
     },
     {
       "path": "data.zip",
       "hash": "a27d6a6e8458df9ab20b40be4ce521e5",
-      "url": "https://cdn.jsdelivr.net/gh/online-update-001/update@main/data.zip"
+      "url": "https://github.com/online-update-001/update/releases/download/v1.0/data.zip"
     },
     {
       "path": "DWLogin.zip",
       "hash": "07bb793c9db3980166523d73961b23af",
-      "url": "https://cdn.jsdelivr.net/gh/online-update-001/update@main/DWLogin.zip"
-    },
-    {
-      "path": "jma.zip",
-      "hash": "f992d47b35525584ad83cb5023b69f8c",
-      "url": "https://github.com/online-update-001/update/releases/download/v1.0/jma.zip"
+      "url": "https://github.com/online-update-001/update/releases/download/v1.0/DWLogin.zip"
     },
     {
       "path": "jma.zip",
@@ -29,22 +24,17 @@
     {
       "path": "menu.zip",
       "hash": "f4195f1110bc64e6e43d68e0e9400a46",
-      "url": "https://cdn.jsdelivr.net/gh/online-update-001/update@main/menu.zip"
+      "url": "https://github.com/online-update-001/update/releases/download/v1.0/menu.zip"
     },
     {
       "path": "pic.zip",
       "hash": "6583d18ea02d95db77f97c7b70080706",
-      "url": "https://cdn.jsdelivr.net/gh/online-update-001/update@main/pic.zip"
+      "url": "https://github.com/online-update-001/update/releases/download/v1.0/pic.zip"
     },
     {
       "path": "SERVER.zip",
       "hash": "5735e21d6c606db0a18dfbc9fe891553",
-      "url": "https://cdn.jsdelivr.net/gh/online-update-001/update@main/SERVER.zip"
-    },
-    {
-      "path": "TSBot.zip",
-      "hash": "3803ef9aab56a52bd87ee7d87cf52240",
-      "url": "https://github.com/online-update-001/update/releases/download/v1.0/TSBot.zip"
+      "url": "https://github.com/online-update-001/update/releases/download/v1.0/SERVER.zip"
     },
     {
       "path": "TSBot.zip",
