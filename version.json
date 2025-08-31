@@ -1,5 +1,5 @@
 {
-  "Version": "v.082601",
+  "Version": "v.083112",
   "Files": [
     {
       "path": "BotData.zip",
@@ -8,7 +8,7 @@
     },
     {
       "path": "data.zip",
-      "hash": "5f93bfd63011bd0ffbd91385c67b28f6",
+      "hash": "08d2968a4f42c16e7a43ba7c9b1110cf",
       "url": "https://github.com/online-update-001/update/releases/download/v1.0/data.zip"
     },
     {
@@ -28,7 +28,7 @@
     },
     {
       "path": "pic.zip",
-      "hash": "6583d18ea02d95db77f97c7b70080706",
+      "hash": "1df279063e015fc80bba67bf3811e6c8",
       "url": "https://github.com/online-update-001/update/releases/download/v1.0/pic.zip"
     },
     {
@@ -38,7 +38,7 @@
     },
     {
       "path": "TSBot.zip",
-      "hash": "3fe0ba24714825a6b7b38e8e3230e473",
+      "hash": "09634c5666f8bb93314a0bf591da4f2b",
       "url": "https://github.com/online-update-001/update/releases/download/v1.0/TSBot.zip"
     }
   ]
