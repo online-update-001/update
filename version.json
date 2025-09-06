@@ -1,5 +1,5 @@
 {
-  "Version": "v.090401",
+  "Version": "v.090617",
   "Files": [
     {
       "path": "BotData.zip",
@@ -8,7 +8,7 @@
     },
     {
       "path": "data.zip",
-      "hash": "08d2968a4f42c16e7a43ba7c9b1110cf",
+      "hash": "bc2b4514ebf8db43f1860ebb7f25dcae",
       "url": "https://github.com/online-update-001/update/releases/download/v1.0/data.zip"
     },
     {
