@@ -1,5 +1,5 @@
 {
-  "Version": "v.100608",
+  "Version": "v.100610",
   "Files": [
     {
       "path": "BotData.zip",
@@ -13,7 +13,7 @@
     },
     {
       "path": "DWLogin.zip",
-      "hash": "07bb793c9db3980166523d73961b23af",
+      "hash": "1215903b56d9845b9ecc55be92c51d14",
       "url": "https://github.com/online-update-001/update/releases/download/v1.0/DWLogin.zip"
     },
     {
